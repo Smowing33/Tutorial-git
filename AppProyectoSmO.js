@@ -1,0 +1,1 @@
+document.write("<h1>Primeros pasos</h1>");
